@@ -1,0 +1,81 @@
+.login-sec{
+    height: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.panel{
+    width: 400px;
+    height: auto;
+    padding: 50px 20px;
+    border: 0px solid transparent;
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px 1px rgba(0, 0, 0, 0.137);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.panel .input-field{
+    width: 300px;
+}
+.panel .primary-btn{
+    width: 300px;
+    height: 45px;
+}
+.clickable-link{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+.panel .description{
+    text-align: center;
+}
+.panel .title{
+    font-size: 40px;
+}
+.disable{
+    display: none;
+}
+.review-panel{
+    width: 500px;
+    align-items: flex-start;
+}
+.review-panel .description{
+    font-size: 15px;
+    font-weight: bold;
+}
+.review-panel .one-part{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+}
+.review-panel #delete{
+        background-color: rgb(255, 66, 59);
+        border-color: rgb(255, 66, 59);
+}
+.review-panel .account-btns{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    gap: 20px;
+}
+
+
+
+/* $sqlUpdate = "UPDATE users 
+    SET firstName = '" . $firstName . "',
+     lastName = '" . $lastName . "',
+    fullName = '" . $fullName . "',
+     nic = '" . $nic . "',
+     birthDay = '" . $birthDay . "',
+     mobile = '" . $mobile . "',
+     personalEmail = '" . $personalEmail . "',
+     houseNo = '" . $houseNo . "',
+     houseStreet = '" . $houseStreet . "',
+     houseCity = '" . $houseCity . "',
+     houseCounty = '" . $houseCounty . "' 
+     WHERE userID = '" . $_SESSION['user_id'] . "';"; */

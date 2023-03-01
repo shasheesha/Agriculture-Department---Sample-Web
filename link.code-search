@@ -1,0 +1,196 @@
+# Query: link
+# ContextLines: 1
+
+101 results - 22 files
+
+about.php:
+  21      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  22:     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  23:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/standard.css">
+  24:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/main1.css">
+  25:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/reaction.css">
+  26:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/profile.css">
+  27          
+
+account-edit.php:
+  130      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  131:     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  132:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/standard.css">
+  133:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/main1.css">
+  134:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/reaction.css">
+  135:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/signin.css">
+  136:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/profile.css">
+  137  
+
+account-review.php:
+  70      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  71:     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  72:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/standard.css">
+  73:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/main1.css">
+  74:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/reaction.css">
+  75:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/signin.css">
+  76:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/profile.css">
+  77  
+
+contact.php:
+  45      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  46:     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  47:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/standard.css">
+  48:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/main1.css">
+  49:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/reaction.css">
+  50:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/profile.css">
+  51          
+
+create-doa.php:
+  46      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  47:     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  48:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/standard.css">
+  49:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/main1.css">
+  50:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/reaction.css">
+  51:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/signin.css">
+  52:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/profile.css">
+  53          
+
+error.php:
+  13      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  14:     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  15:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/standard.css">
+  16:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/main1.css">
+  17:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/reaction.css">
+  18      <title>DOA - Commining Soon</title>
+
+gallery-upload.php:
+  51      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  52:     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  53:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/standard.css">
+  54:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/main1.css">
+  55:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/reaction.css">
+  56:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/signin.css">
+  57:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/profile.css">
+  58  
+
+gallery.php:
+  21      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  22:     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  23:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/standard.css">
+  24:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/main1.css">
+  25:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/reaction.css">
+  26:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/profile.css">
+  27  
+
+home.php:
+  43      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  44:     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  45:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/standard.css">
+  46:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/main1.css">
+  47:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/reaction.css">
+  48:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/profile.css">
+  49      <title>Home</title>
+
+load_screen.html:
+   6      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   7:     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+   8:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/standard.css">
+   9:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/main1.css">
+  10:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/reaction.css">
+  11      <title>Document</title>
+
+news-upload.php:
+  70      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  71:     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  72:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/standard.css">
+  73:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/main1.css">
+  74:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/reaction.css">
+  75:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/signin.css">
+  76:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/profile.css">
+  77  
+
+news.php:
+  22      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  23:     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  24:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/standard.css">
+  25:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/main1.css">
+  26:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/reaction.css">
+  27:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/profile.css">
+  28  
+
+problems.php:
+  46      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  47:     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  48:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/standard.css">
+  49:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/main1.css">
+  50:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/reaction.css">
+  51:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/profile.css">
+  52  
+
+profile-farmer.php:
+  71      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  72:     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  73:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/standard.css">
+  74:     <!-- <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/main1.css"> -->
+  75:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/reaction.css">
+  76:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/profile.css">
+  77      <title>Profile</title>
+
+profile-officer.php:
+  106      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  107:     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  108:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/standard.css">
+  109:     <!-- <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/main1.css"> -->
+  110:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/reaction.css">
+  111:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/profile.css">
+  112      <title>DOA</title>
+
+sign-in.php:
+  48      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  49:     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  50:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/standard.css">
+  51:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/main1.css">
+  52:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/reaction.css">
+  53:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/signin.css">
+  54:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/profile.css">
+  55          
+
+  93                  <input type="submit" id="signin" name="signin" class="primary-btn" value="Sign in">
+  94:                 <a class="clickable-link" href="http://localhost/99_40_web/error.php">Forget username or password</a>
+  95              </div>
+
+sign-up-done.php:
+  27      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  28:     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  29:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/standard.css">
+  30:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/main1.css">
+  31:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/reaction.css">
+  32:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/signin.css">
+  33:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/profile.css">
+  34          
+
+sign-up.php:
+  37      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  38:     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  39:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/standard.css">
+  40:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/main1.css">
+  41:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/reaction.css">
+  42:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/signin.css">
+  43:     <link rel="stylesheet" type="text/css" href="http://localhost/99_40_web/css/profile.css">
+  44          
+
+css\profile.css:
+  17  }
+  18: .profile-link{
+  19      align-items: center;
+
+css\reaction.css:
+  52  }
+  53: .clickable-link:hover{
+  54      color: #78b416;
+
+css\signin.css:
+  27  }
+  28: .clickable-link{
+  29      text-decoration: none;
+
+css\standard.css:
+  128  }
+  129: .link-text{
+  130      text-decoration: none;

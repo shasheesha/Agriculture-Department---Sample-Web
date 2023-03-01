@@ -1,0 +1,74 @@
+.select{
+    color: #7DB12B;
+    font-weight: bold;
+    transition: 0.2s;
+}
+li:hover{
+    color: #78b416;
+    transition: 0.2s;
+}
+.profile-btn:hover{
+    color: #78b416;
+    font-weight: bold;
+    transition: 0.4s;
+}
+#sign-in:hover{
+    background-color: #78b416;
+    color: #ffffff;
+    transition: 0.2s;
+}
+#sign-up:hover{
+    background-color: #8FC933;
+    color: #ffffff;
+    transition: 0.2s;
+}
+#tell-us:hover{
+    background-color: #8FC933;
+    color: #ffffff;
+    transition: 0.2s;
+}
+#about-us:hover{
+    color: #78b416;
+    transition: 0.2s;
+}
+#submit:hover{
+    background-color: #78b416;
+    color: #ffffff;
+    transition: 0.2s;
+}
+.primary-btn:hover{
+    background-color: #78b416;
+    color: #ffffff;
+    transition: 0.2s;
+}
+.secondary-btn:hover{
+    background-color: #8FC933;
+    color: #ffffff;
+    transition: 0.2s;
+}
+.third-btn:hover{
+    color: #8FC933;
+    transition: 0.2s;
+}
+.clickable-link:hover{
+    color: #78b416;
+    transition: 0.2s;
+}
+.card:hover{
+    border-color: #78b416;
+    background-color: #efefef;
+    transition: 0.3s;
+}
+.input-field:hover{
+    border-color: #78b416;
+    transition: 0.2s;
+}
+.hide{
+    display: none;
+}
+.disable{
+    display: none;
+}
+.visible{
+    transition: 0.3s;
+}
